@@ -1,3 +1,5 @@
+//241080002 SYIT OST
+
 #include <iostream>
 using namespace std;
 
@@ -14,4 +16,5 @@ int main() {
 
     return 0;
 }
+
 
